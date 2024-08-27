@@ -2,6 +2,8 @@
 
 This repository contains the code to implement the paper **Pseudonymization in Legal Texts according to the LGPD: A Named Entity Recognition Approach**.
 
+The code implemented in the paper used Llama version 3. The code in this repository uses Llama version 3.1.
+
 ```bibtex
 @INPROCEEDINGS{242811,
     AUTHOR="Marcelo Filho and Bruno Cesar Ribas",
