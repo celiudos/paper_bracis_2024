@@ -1,0 +1,6 @@
+
+# Default
+__pycache__
+.env
+
+/output/*
